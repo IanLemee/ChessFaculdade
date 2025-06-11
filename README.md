@@ -79,7 +79,7 @@ ChessMath/
 ### Passos para Execução
 1. **Clonar/Baixar o Projeto**
    ```bash
-   git clone [URL_DO_REPOSITORIO]
+   git clone [https://github.com/IanLemee/ChessFaculdade.git]
    ```
 
 2. **Abrir no IntelliJ IDEA**
@@ -161,22 +161,12 @@ java chessmath.ChessMathGame
 - **Otimização**: Melhores estratégias matemáticas
 
 ## 👥 Equipe de Desenvolvimento
-- [Nome do Estudante 1] - Desenvolvedor Principal
-- [Nome do Estudante 2] - Designer de Interface
-- [Nome do Estudante 3] - Especialista em Matemática
-- [Nome do Professor] - Orientador
+- Ian Francisco de Campos, RA: 12523127628 - Desenvolvedor Principal
 
 ## 📝 Licença
 Este projeto foi desenvolvido para fins educacionais como parte da disciplina de Estruturas Matemáticas.
 
 ## 🤝 Contribuições
 Sugestões e melhorias são bem-vindas! Entre em contato com a equipe de desenvolvimento.
-
-## 📞 Suporte
-Para dúvidas sobre o projeto:
-- Email: [email_da_equipe]
-- GitHub: [link_do_repositorio]
-
----
 
 **ChessMath** - Transformando o aprendizado de matemática através do jogo! ♟️📐
